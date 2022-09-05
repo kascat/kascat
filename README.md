@@ -135,10 +135,4 @@ LinkedIn:
 </b>
 </p>
 
-<script>
-setTimeout(()=>{
-alert('55')
-},2000)
-</script>
-
 > 📫 **Contato:** fabiojd47@gmail.com
