@@ -1,12 +1,14 @@
-# <div align="center">Olá, eu sou o Fabio Dukievicz</div>
-#### <div align="center">  💻 Full-Stack  Developer and Tech Lead</div>
+# <div align="center">Fabio Dukievicz | Software Engineer</div>
 
+<div style="margin-top: 30px"></div>
 
-<p style="margin: 30px 0">
-Sou desenvolvedor Web a mais de 5 anos e trabalho com: Php, Laravel, NodeJS, VueJS, Docker, Shell Script, Git, Java Script,
-HTML5, CSS3, Bootstrap, MySQL, PostgreSQL, MongoDB, APIs Rest, Deploy, Servidores Cloud, Linux, Metodologias ágeis,
-Gestão de projetos e Equipe.
-</p>
+Desenvolvedor de sistemas desde 2017, com experiência sólida em projetos completos e escaláveis,
+do planejamento à implementação. Minhas principais competências incluem **PHP**, **Laravel**, **Vue.js**,
+**Node.js**, e **Docker**, além de uma atuação prática em **Inteligência Artificial aplicada** e **automação**.
+Trabalho com uma abordagem full-stack, utilizando tecnologias como **Shell Script**, **Git**, **JavaScript**,
+**HTML5**, **CSS3**, **Bootstrap**, **MySQL**, **PostgreSQL**, **MongoDB** e **APIs Rest**.
+Possuo experiência em **deploys**, **servidores cloud**, e **Linux**, integrando metodologias ágeis
+e gestão de projetos para entregar soluções inovadoras e de alto impacto.
 
 <p style="background: #c4e1ea; padding: 20px 20px 15px; border-radius: 5px" align="center">
   <img
@@ -15,7 +17,7 @@ Gestão de projetos e Equipe.
     width="32"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"
     alt="laravel"
     width="32"
   />
@@ -129,10 +131,10 @@ Gestão de projetos e Equipe.
 ---
 
 <p align="center">
-LinkedIn:
-<b>
-  <a href="https://www.linkedin.com/in/fabio-dukievicz/">Fabio Dukievicz</a>
-</b>
+  LinkedIn:
+  <b>
+    <a href="https://www.linkedin.com/in/fabio-dukievicz/">Fabio Dukievicz</a>
+  </b>
 </p>
 
 > 📫 **Contato:** fabiojd47@gmail.com
